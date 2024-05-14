@@ -25,7 +25,7 @@ export default function Orders() {
   return (
     <React.Fragment>
       <Title>Recent Orders</Title>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '350'}}>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
         <Table size="large">
           <TableHead>
             <TableRow>
